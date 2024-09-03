@@ -1,0 +1,38 @@
+body{
+    
+    color: cadetblue;
+}
+/* img:hover{
+    box-shadow: 0 5px 35px 0px rgba(0, 0, 0, .1);
+}
+img{
+    color: #fff ;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #60a3bc;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+}
+img:hover{
+    text-shadow: 0px 0px 6px rgba(255, 255, 255, 1);
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+} */
+.poke{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.poke-head {
+
+}
+
+.poke-stats{
+    background-color: rebeccapurple;
+    border-radius: 15px;
+    
+}
